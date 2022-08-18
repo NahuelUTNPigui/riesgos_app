@@ -1,3 +1,6 @@
 Debo definir las opciones
 La primera opcion es sobre cuantos riesgos debo incluir para tener mas del x proporcion por defecto es 0.7
 .\riesgos {porcentaje_a_cubrir}
+
+el texto es:
+id nombre probabilidad impacto
